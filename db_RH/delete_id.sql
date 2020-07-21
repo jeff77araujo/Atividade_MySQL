@@ -1,0 +1,1 @@
+delete from tb_funcionarios where id = 6;
